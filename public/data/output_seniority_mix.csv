@@ -1,0 +1,41 @@
+job_category,seniority,count
+Customer Service,Junior,12
+Customer Service,Mid-Level,528
+Customer Service,Senior,13
+Data & Analytics,Junior,29
+Data & Analytics,Management,25
+Data & Analytics,Mid-Level,225
+Data & Analytics,Senior,127
+Finance & Accounting,Junior,251
+Finance & Accounting,Management,295
+Finance & Accounting,Mid-Level,1511
+Finance & Accounting,Senior,390
+HR & Recruitment,Junior,16
+HR & Recruitment,Mid-Level,515
+HR & Recruitment,Senior,79
+Healthcare,Junior,13
+Healthcare,Management,355
+Healthcare,Mid-Level,1394
+Healthcare,Senior,418
+Logistics & Operations,Junior,35
+Logistics & Operations,Mid-Level,1028
+Logistics & Operations,Senior,19
+Management & Leadership,Junior,121
+Management & Leadership,Management,4407
+Management & Leadership,Senior,760
+Marketing,Junior,35
+Marketing,Management,224
+Marketing,Mid-Level,470
+Marketing,Senior,61
+Other,Junior,976
+Other,Management,30
+Other,Mid-Level,14351
+Other,Senior,1698
+Sales,Junior,85
+Sales,Management,693
+Sales,Mid-Level,1849
+Sales,Senior,136
+Software & Engineering,Junior,505
+Software & Engineering,Management,218
+Software & Engineering,Mid-Level,2598
+Software & Engineering,Senior,988
